@@ -7,7 +7,7 @@ Hosts file is a computer file stored in computer network information for each no
 ---------------------
 >For Desktop:<br>
 >>Microsoft Windows in:`C:\Windows\system32\drivers\etc\hosts`.<br>
->>Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
+>>Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>\
 >For Mobile System:<br>
 >>Android system in:`/system/etc/hosts`.<br>
 >>iOS system in:`/etc/hosts`.<br>
