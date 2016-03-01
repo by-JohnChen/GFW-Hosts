@@ -8,8 +8,8 @@ Hosts file is a computer file stored in computer network information for each no
 >Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
 >Android system in:`/system/etc/hosts`.<br>
 >iOS system in:`/etc/hosts`.<br>
-##First update in 2016/03/01.
----------------
+
+####First update in 2016/03/01.
 
 
   for more, please [Click here](http://hosts.devsoft.cn).<br>
