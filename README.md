@@ -14,5 +14,5 @@ iOS system in:`/etc/hosts`.
 ---------------
 
 
-for more, please [Click here](http://hosts.devsoft.cn).\<br> 
-for support into [here](http://support.devsoft.cn).
+  for more, please [Click here](http://hosts.devsoft.cn).
+  for support into [here](http://support.devsoft.cn).
