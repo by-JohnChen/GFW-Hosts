@@ -7,9 +7,9 @@ Hosts file is a computer file stored in computer network information for each no
  * Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
  * Android system in:`/system/etc/hosts`.<br>
  * iOS system in:`/etc/hosts`.<br>
->Need the latest hosts? [Click here](https://github.com/devsoftcn/GFW-Hosts/latest) to try.
+Need the latest hosts? [Click here](https://github.com/devsoftcn/GFW-Hosts/latest) to try.
 ####First update in 2016/03/01.
-Disabled by default Rockstar Hosts
-Funded developer [Pay in alipay](http://pay.devsoft.cn/alipay),[Pay in WeChat](http://pay.devsoft.cn/wechat).
+Disabled by default Rockstar Hosts.
+Funded developer [Pay in alipay](http://pay.devsoft.cn/alipay),[Pay in WeChat](http://pay.devsoft.cn/wechat).<br>
   for more, please [Click here](http://hosts.devsoft.cn).<br>
   for support into [here](http://support.devsoft.cn).
