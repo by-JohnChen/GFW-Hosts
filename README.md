@@ -8,12 +8,15 @@ Hosts file is a computer file stored in computer network information for each no
  >Android system in:`/system/etc/hosts`.<br>
  >iOS system in:`/etc/hosts`.<br>
  
- 
-`Need the latest hosts?` [Click here](./latest) to try.  
+If you are a `Windows`, Please[Click here](./Windows).
+If you are a `Unix/Linux`,Please[Click here](./Unix%20linux).
+If you are a `iOS`,Please[Click here](./iOS).
+If you are a `Android`,Please[Click here](./Android).
 
 ###Update details
 >First update in 2016/03/01.
->>Disabled by default Rockstar Hosts.
+>>Disabled by default Games Hosts,You may need to open.
+>>
  
 #####Help developers
 >sponsor developer:
