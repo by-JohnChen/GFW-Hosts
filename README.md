@@ -6,11 +6,11 @@ Hosts file is a computer file stored in computer network information for each no
 ###Hosts file is located:
 ---------------------
 For Desktop:<br>
-  *Microsoft Windows in:`C:\Windows\system32\drivers\etc\hosts`.<br>
-  *Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
+  * Microsoft Windows in:`C:\Windows\system32\drivers\etc\hosts`.<br>
+  * Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
 For Mobile System:<br>
-  *Android system in:`/system/etc/hosts`.<br>
-  *iOS system in:`/etc/hosts`.<br>
+  * Android system in:`/system/etc/hosts`.<br>
+  * iOS system in:`/etc/hosts`.<br>
 ##First update in 2016/03/01.
 ---------------
 
