@@ -5,14 +5,15 @@ This page is updated with the latest long-term Google, Google Scholar, Wikipedia
 Hosts file is a computer file stored in computer network information for each node. This file is responsible for a host name mapped to the corresponding IP address. hosts files are often used to supplement or replace the network DNS. And DNS difference is that computer users can directly control the hosts file.
 ###Hosts file is located:
 ---------------------
-Microsoft Windows in:`C:\Windows\system32\drivers\etc\hosts`.
-Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.
-For Mobile System:
-Android system in:`/system/etc/hosts`.
-iOS system in:`/etc/hosts`.
-##First update in 2016/03/01.\</h3>
+For Desktop:
+Microsoft Windows in:`C:\Windows\system32\drivers\etc\hosts`.<br>
+Apple OS X, Unix and most linux kernel system in:`/etc/hosts`.<br>
+For Mobile System:<br>
+Android system in:`/system/etc/hosts`.<br>
+iOS system in:`/etc/hosts`.<br>
+##First update in 2016/03/01.
 ---------------
 
 
-  for more, please [Click here](http://hosts.devsoft.cn).
+  for more, please [Click here](http://hosts.devsoft.cn).<br>
   for support into [here](http://support.devsoft.cn).
