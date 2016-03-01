@@ -15,6 +15,8 @@ Hosts file is a computer file stored in computer network information for each no
 >First update in 2016/03/01.
 >>Disabled by default Rockstar Hosts.
  
- 
 #####more
->Funded developer [Pay in alipay](http://pay.devsoft.cn/alipay),[Pay in WeChat](http://pay.devsoft.cn/wechat).
+>Funded developer [![alipay]](http://pay.devsoft.cn/alipay)
+[alipay]:(https://i.alipayobjects.com/common/favicon/favicon.ico) "Pay in Alipay",
+[![WeChat]](http://pay.devsoft.cn/wechat)
+[Wechat]:() "Pay in WeChat".
