@@ -18,6 +18,6 @@ Hosts file is a computer file stored in computer network information for each no
 #####more
 >Funded developer:
 [![alipay]](http://pay.devsoft.cn/alipay)
-[alipay]: https://i.alipayobjects.com/common/favicon/favicon.ico "Pay in Alipay"
 [![wechat]](http://pay.devsoft.cn/wechat)
-[wechat]: http://www.wechat.com/zh_TW/img/favicon.ico "Pay in WeChat" 
+[alipay]: http://54.210.108.244/alipay.png "Pay in Alipay"
+[wechat]: http://54.210.108.244/wechat.png "Pay in WeChat" 
