@@ -24,4 +24,4 @@ Hosts file is a computer file stored in computer network information for each no
 
 ![](https://54.175.97.254/images/alipay.jpg "Pay in Alipay")
 ![](http://54.175.97.254/images/wechat.jpg "Pay in Wechat")
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+![baidu](https://54.175.97.254/images/alipay.jpg "百度logo")  
