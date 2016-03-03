@@ -9,8 +9,8 @@ Hosts file is a computer file stored in computer network information for each no
  >`iOS` system in:`/etc/hosts`.<br>
  
  * If you are `Windows`, Please[Click here](./Windows).
- * If you are `OS X,iOS`,Please[Click here](./OS%20X%20iOS).
- * If you are `Unix,Linux`,Please[Click here](./Unix%20linux).
+ * If you are `OS X,iOS`,Please[Click here](./OS X iOS).
+ * If you are `Unix,Linux`,Please[Click here](./Unix linux).
  * If you are `Android`,Please[Click here](./Android).
 
 ###Update details
