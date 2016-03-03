@@ -1,14 +1,14 @@
 @echo off
-title Run as administrator
+title Update to Hosts
 color 3f
 echo 
 echo ------------------------------------------------------------ 
 echo.
 echo   Powered by Micro Developer soft Inc.                     
 echo.                                                           
-echo   If you need hosts other devices,please goto£º            
+echo   If you need hosts other devices,please goto:            
 echo.                                                           
-echo   https://https://github.com/devsoftcn/GFW-Hosts           
+echo   https://https://github.com/by-JohnChen/GFW-Hosts           
 echo ------------------------------------------------------------
 echo.
 echo Next, download hosts...
@@ -18,7 +18,7 @@ goto download
 :download
 cls
 echo Set xPost = CreateObject("Microsoft.XMLHTTP") >a.vbe  
-echo xPost.Open "GET","https://github.com/devsoftcn/GFW-Hosts/Windows",0 >>a.vbe  
+echo xPost.Open "GET","https://github.com/by-JohnChen/GFW-Hosts/Windows",0 >>a.vbe  
 echo xPost.Send() >>a.vbe  
 echo Set sGet = CreateObject("ADODB.Stream") >>a.vbe  
 echo sGet.Mode = 3 >>a.vbe  
