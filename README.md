@@ -10,7 +10,7 @@ Hosts file is a computer file stored in computer network information for each no
  
  * If you are `Windows`, Please[Click here](./Windows).
  * If you are `OS X,iOS`,Please[Click here](./OS X and iOS).
- * If you are `Unix,Linux`,Please[Click here](./Unix and linux).
+ * If you are `Unix,Linux`,Please[Click here](./Unix and Linux).
  * If you are `Android`,Please[Click here](./Android).
 
 ###Update details
