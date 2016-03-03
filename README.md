@@ -23,4 +23,4 @@ Hosts file is a computer file stored in computer network information for each no
 >sponsor developer:<br>
 
 <img src="https://54.175.97.254/images/alipay.jpg" alt="Alipay" title="Pay in Alipay" width="200" height="200" />
-![](https://54.175.97.254/images/wechat.jpg "Pay in Wechat")
+<img src="https://54.175.97.254/images/wechat.jpg" alt="Wechat" title="Pay in Wechat" width="200" height="200" />
