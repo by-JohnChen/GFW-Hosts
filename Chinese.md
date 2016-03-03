@@ -1,5 +1,5 @@
 # GFW-Hosts
-此页面与最新的长期更新Google, Google Scholar, Wikipedia, ccFox.info, ProjectH, Battle.NET, WordPress, Microsoft Live, GitHub, Amazon, Box.com, SoundCloud, inoreader, Feedly, FlipBoard, Twitter, Facebook, Flickr, imgur, DuckDuckGo, Ixquick, Google Services, Google apis, Android, Youtube, Google Drive, UpLoad, Appspot, Google usercontent, Gstatic, Google other, Google Play和其他Hosts.
+此页面长期更新最新的Google, Google Scholar, Wikipedia, ccFox.info, ProjectH, Battle.NET, WordPress, Microsoft Live, GitHub, Amazon, Box.com, SoundCloud, inoreader, Feedly, FlipBoard, Twitter, Facebook, Flickr, imgur, DuckDuckGo, Ixquick, Google Services, Google apis, Android, Youtube, Google Drive, UpLoad, Appspot, Google usercontent, Gstatic, Google other, Google Play和其他Hosts.
 ## 什么是Hosts?
 Hosts文件是存储在每个节点的计算机网络信息的计算机文件。这个文件是负责映射到相应的IP地址的主机名。主机文件经常被用来补充或替代网络的DNS。和DNS不同的是，电脑用户可以直接控制主机文件。
 #### Hosts文件位置:
