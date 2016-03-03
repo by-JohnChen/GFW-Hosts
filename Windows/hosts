@@ -19,7 +19,7 @@
 #       127.0.0.1       localhost
 #       ::1             localhost
 #
-#  If you need hosts other devices,please go to https://github.com/devsoftcn/GFW-Hosts/  
+#  If you need hosts other devices,please go to https://github.com/by-JohnChen/GFW-Hosts/  
 
 127.0.0.1   localhost
 255.255.255.255 broadcasthost
