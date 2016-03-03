@@ -6,7 +6,7 @@ echo ------------------------------------------------------------
 echo.
 echo   Powered by Micro Developer soft Inc.                     
 echo.                                                           
-echo   If you need hosts other devices,please goto:            
+echo   If you need hosts other devices, please goto:            
 echo.                                                           
 echo   https://https://github.com/by-JohnChen/GFW-Hosts           
 echo ------------------------------------------------------------
