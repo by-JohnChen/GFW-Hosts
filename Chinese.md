@@ -1,24 +1,24 @@
 # GFW-Hosts
-´ËÒ³ÃæÓë×îĞÂµÄ³¤ÆÚ¸üĞÂ Google, Google Scholar, Wikipedia, ccFox.info, ProjectH, Battle.NET, WordPress, Microsoft Live, GitHub, Amazon, Box.com, SoundCloud, inoreader, Feedly, FlipBoard, Twitter, Facebook, Flickr, imgur, DuckDuckGo, Ixquick, Google Services, Google apis, Android, Youtube, Google Drive, UpLoad, Appspot, Google usercontent, Gstatic, Google other, Google Play ºÍÆäËû.
-## Ê²Ã´ÊÇHosts?
-HostsÎÄ¼şÊÇ´æ´¢ÔÚÃ¿¸ö½ÚµãµÄ¼ÆËã»úÍøÂçĞÅÏ¢µÄ¼ÆËã»úÎÄ¼ş¡£Õâ¸öÎÄ¼şÊÇ¸ºÔğÓ³Éäµ½ÏàÓ¦µÄIPµØÖ·µÄÖ÷»úÃû¡£Ö÷»úÎÄ¼ş¾­³£±»ÓÃÀ´²¹³ä»òÌæ´úÍøÂçµÄDNS¡£ºÍDNS²»Í¬µÄÊÇ£¬µçÄÔÓÃ»§¿ÉÒÔÖ±½Ó¿ØÖÆÖ÷»úÎÄ¼ş¡£
-#### HostsÎÄ¼şÎ»ÖÃ:
- >Î¢Èí`Windows`ÏµÍ³Î»ÓÚ`Windows`ÏµÍ³Î»ÓÚ:`C:\Windows\system32\drivers\etc\hosts`.<br>
- >Apple `OS X`,`Unix`,`linux`´ó¶àÊıÎ»ÓÚ:`/etc/hosts`.<br>
- >`Android`ÏµÍ³Î»ÓÚ:`/system/etc/hosts`.<br>
- >`iOS`ÏµÍ³Î»ÓÚ:`/etc/hosts`.<br>
+æ­¤é¡µé¢ä¸æœ€æ–°çš„é•¿æœŸæ›´æ–° Google, Google Scholar, Wikipedia, ccFox.info, ProjectH, Battle.NET, WordPress, Microsoft Live, GitHub, Amazon, Box.com, SoundCloud, inoreader, Feedly, FlipBoard, Twitter, Facebook, Flickr, imgur, DuckDuckGo, Ixquick, Google Services, Google apis, Android, Youtube, Google Drive, UpLoad, Appspot, Google usercontent, Gstatic, Google other, Google Play å’Œå…¶ä»–.
+## ä»€ä¹ˆæ˜¯Hosts?
+Hostsæ–‡ä»¶æ˜¯å­˜å‚¨åœ¨æ¯ä¸ªèŠ‚ç‚¹çš„è®¡ç®—æœºç½‘ç»œä¿¡æ¯çš„è®¡ç®—æœºæ–‡ä»¶ã€‚è¿™ä¸ªæ–‡ä»¶æ˜¯è´Ÿè´£æ˜ å°„åˆ°ç›¸åº”çš„IPåœ°å€çš„ä¸»æœºåã€‚ä¸»æœºæ–‡ä»¶ç»å¸¸è¢«ç”¨æ¥è¡¥å……æˆ–æ›¿ä»£ç½‘ç»œçš„DNSã€‚å’ŒDNSä¸åŒçš„æ˜¯ï¼Œç”µè„‘ç”¨æˆ·å¯ä»¥ç›´æ¥æ§åˆ¶ä¸»æœºæ–‡ä»¶ã€‚
+#### Hostsæ–‡ä»¶ä½ç½®:
+ >å¾®è½¯`Windows`ç³»ç»Ÿä½äº`Windows`ç³»ç»Ÿä½äº:`C:\Windows\system32\drivers\etc\hosts`.<br>
+ >Apple `OS X`,`Unix`,`linux`å¤§å¤šæ•°ä½äº:`/etc/hosts`.<br>
+ >`Android`ç³»ç»Ÿä½äº:`/system/etc/hosts`.<br>
+ >`iOS`ç³»ç»Ÿä½äº:`/etc/hosts`.<br>
  
- * Èç¹ûÄãÊÇ`Windows`, Çë[µã»÷ÕâÀï](../../Windows/).
- * Èç¹ûÄãÊÇ`OS X,iOS`,Çë[µã»÷ÕâÀï](../../OS X and iOS/).
- * Èç¹ûÄãÊÇ`Unix,Linux`,Çë[µã»÷ÕâÀï](../../Unix and Linux/).
- * Èç¹ûÄãÊÇ`Android`ÏµÍ³,Çë[µã»÷ÕâÀï](../../Android/).
+ * å¦‚æœä½ æ˜¯`Windows`, è¯·[ç‚¹å‡»è¿™é‡Œ](./Windows/).
+ * å¦‚æœä½ æ˜¯`OS X,iOS`,è¯·[ç‚¹å‡»è¿™é‡Œ](../../OS X and iOS/).
+ * å¦‚æœä½ æ˜¯`Unix,Linux`,è¯·[ç‚¹å‡»è¿™é‡Œ](../../Unix and Linux/).
+ * å¦‚æœä½ æ˜¯`Android`ç³»ç»Ÿ,è¯·[ç‚¹å‡»è¿™é‡Œ](../../Android/).
 
-###¸üĞÂÈÕÖ¾
->µÚÒ»´Î¸üĞÂÓÚ 2016/03/01.
->>Ä¬ÈÏ²»½âÎöÓÎÏ·µÄHosts,Èç¹ûÄãĞèÒª¿ÉÒÔ´ò¿ª½âÎö.
+###æ›´æ–°æ—¥å¿—
+>ç¬¬ä¸€æ¬¡æ›´æ–°äº 2016/03/01.
+>>é»˜è®¤ä¸è§£ææ¸¸æˆçš„Hosts,å¦‚æœä½ éœ€è¦å¯ä»¥æ‰“å¼€è§£æ.
 >>
  
-#####×ÊÖú¿ª·¢Õß
->´òÉÍÎ¬»¤Õß:<br>
-![alipay](http://images.devsoft.cn/alipay.png "ÓÃÖ§¸¶±¦Ö§¸¶")
-![wechat](http://images.devsoft.cn/wechat.png "ÓÃÎ¢ĞÅÖ§¸¶")
+#####èµ„åŠ©å¼€å‘è€…
+>æ‰“èµç»´æŠ¤è€…:<br>
+![alipay](http://images.devsoft.cn/alipay.png "ç”¨æ”¯ä»˜å®æ”¯ä»˜")
+![wechat](http://images.devsoft.cn/wechat.png "ç”¨å¾®ä¿¡æ”¯ä»˜")
