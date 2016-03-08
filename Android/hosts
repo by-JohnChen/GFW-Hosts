@@ -1,14 +1,17 @@
-#  If you need hosts other devices,please go to https://github.com/by-JohnChen/GFW-Hosts/  
+#  If you need hosts other devices,please go to https://github.com/by-JohnChen/GFW-Hosts/
+
 127.0.0.1   localhost
 255.255.255.255 broadcasthost
 ::1 localhost
 fe80::1%lo0 localhost
+
 
 # Battle.NET Start
 #12.129.206.133	enUS.patch.battle.net
 #208.111.148.7	llnw.blizzard.com
 #121.254.200.133	zhTW.patch.battle.net
 # Battle.NET End
+
 
 # Amazon AWS Start
 27.0.1.125	ap-northeast-1.console.aws.amazon.com
@@ -85,7 +88,7 @@ fe80::1%lo0 localhost
 # DMM End
 
 # Facebook start
-66.220.158.13    fb.me
+182.239.95.137    fb.me
 31.13.66.14    video.xx.fbcdn.net
 31.13.66.9    scontent.xx.fbcdn.net
 31.13.66.9    scontent-a.xx.fbcdn.net
@@ -111,7 +114,7 @@ fe80::1%lo0 localhost
 23.63.99.171    fbcdn-video-o-a.akamaihd.net
 23.63.99.144    fbcdn-video-p-a.akamaihd.net
 23.63.99.123    fbcdn-vthumb-a.akamaihd.net
-66.220.158.13    mqtt.facebook.com
+182.239.95.137    mqtt.facebook.com
 77.67.4.11    fbcdn-sphotos-a-a.akamaihd.net
 77.67.4.64    fbcdn-sphotos-b-a.akamaihd.net
 77.67.4.74    fbcdn-sphotos-c-a.akamaihd.net
@@ -125,23 +128,23 @@ fe80::1%lo0 localhost
 23.213.58.87    profile.ak.facebook.com
 184.28.188.154    static.ak.facebook.com
 184.28.188.154    b.static.ak.facebook.com
-66.220.158.13    graph.facebook.com
-66.220.158.13    ssl.facebook.com
-66.220.158.13    api.facebook.com
-66.220.158.13    secure-profile.facebook.com
-66.220.158.13    secure.facebook.com
-66.220.158.13    zh-cn.facebook.com
-66.220.158.13    login.facebook.com
-66.220.158.13    m.facebook.com
+182.239.95.137    graph.facebook.com
+182.239.95.137    ssl.facebook.com
+182.239.95.137    api.facebook.com
+182.239.95.137    secure-profile.facebook.com
+182.239.95.137    secure.facebook.com
+182.239.95.137    zh-cn.facebook.com
+182.239.95.137    login.facebook.com
+182.239.95.137    m.facebook.com
 108.166.120.82    messages-facebook.com
-66.220.158.13    attachments.facebook.com
-66.220.158.13    touch.facebook.com
-66.220.158.13    facebook.com
-66.220.158.13    www.facebook.com
-66.220.158.13    apps.facebook.com
-66.220.158.13    upload.facebook.com
-66.220.158.13    developers.facebook.com
-66.220.158.13    fbcdn.net
+182.239.95.137    attachments.facebook.com
+182.239.95.137    touch.facebook.com
+182.239.95.137    facebook.com
+182.239.95.137    www.facebook.com
+182.239.95.137    apps.facebook.com
+182.239.95.137    upload.facebook.com
+182.239.95.137    developers.facebook.com
+182.239.95.137    fbcdn.net
 165.254.42.232    profile.ak.fbcdn.net
 173.252.71.184    vpn.tfbnw.net
 184.28.188.240    vthumb.ak.fbcdn.net
@@ -173,25 +176,25 @@ fe80::1%lo0 localhost
 69.171.246.16    channel-ecmp-05-ash3.facebook.com
 69.171.246.17    channel-staging-ecmp-05-ash3.facebook.com
 69.171.246.18    channel-testing-ecmp-05-ash3.facebook.com
-66.220.158.13    0-edge-chat.facebook.com
-66.220.158.13    1-edge-chat.facebook.com
-66.220.158.13    2-edge-chat.facebook.com
-66.220.158.13    3-edge-chat.facebook.com
-66.220.158.13    4-edge-chat.facebook.com
-66.220.158.13    5-edge-chat.facebook.com
-66.220.158.13    6-edge-chat.facebook.com
-66.220.158.13    api-read.facebook.com
-66.220.158.13    attachment.fbsbx.com
-66.220.158.13    bigzipfiles.facebook.com
-66.220.158.13    check4.facebook.com
-66.220.158.13    check6.facebook.com
-66.220.158.13    code.facebook.com
-66.220.158.13    connect.facebook.com
-66.220.158.13    edge-chat.facebook.com
-66.220.158.13    pixel.facebook.com
-66.220.158.13    star.c10r.facebook.com
-66.220.158.13    star.facebook.com
-66.220.158.13    zh-tw.facebook.com
+182.239.95.137    0-edge-chat.facebook.com
+182.239.95.137    1-edge-chat.facebook.com
+182.239.95.137    2-edge-chat.facebook.com
+182.239.95.137    3-edge-chat.facebook.com
+182.239.95.137    4-edge-chat.facebook.com
+182.239.95.137    5-edge-chat.facebook.com
+182.239.95.137    6-edge-chat.facebook.com
+182.239.95.137    api-read.facebook.com
+182.239.95.137    attachment.fbsbx.com
+182.239.95.137    bigzipfiles.facebook.com
+182.239.95.137    check4.facebook.com
+182.239.95.137    check6.facebook.com
+182.239.95.137    code.facebook.com
+182.239.95.137    connect.facebook.com
+182.239.95.137    edge-chat.facebook.com
+182.239.95.137    pixel.facebook.com
+182.239.95.137    star.c10r.facebook.com
+182.239.95.137    star.facebook.com
+182.239.95.137    zh-tw.facebook.com
 173.252.74.27    b-api.facebook.com
 173.252.74.27    b-graph.facebook.com
 104.78.23.174    connect.facebook.net
@@ -862,6 +865,13 @@ fe80::1%lo0 localhost
 216.58.217.251	nt1.ggpht.com
 216.58.217.251	nt2.ggpht.com
 216.58.217.251	nt3.ggpht.com
+216.58.217.251  yt0.ggpht.com 
+216.58.217.251  yt1.ggpht.com 
+216.58.217.251  yt2.ggpht.com 
+216.58.217.251  yt3.ggpht.com 
+216.58.217.251  yt4.ggpht.com 
+216.58.217.251  yt5.ggpht.com 
+216.58.217.251  yt6.ggpht.com 
 216.58.217.251	accounts.gstatic.com
 216.58.217.251	maps.gstatic.com
 216.58.217.251	ssl.gstatic.com
