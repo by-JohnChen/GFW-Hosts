@@ -15,6 +15,8 @@ Hosts file is a computer file stored in computer network information for each no
  * If you are `Android`,Please[Click here](./Android).
 
 ###Update details
+>update in 2016/03/06
+>>Repair facebook can not enter, landing and other issues.
 >First update in 2016/03/01.
 >>Disabled by default Games Hosts,You may need to open.
 >>
