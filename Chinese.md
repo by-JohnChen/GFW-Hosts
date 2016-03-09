@@ -3,7 +3,7 @@
 ## 什么是Hosts?
 Hosts文件是存储在每个节点的计算机网络信息的计算机文件。这个文件是负责映射到相应的IP地址的主机名。主机文件经常被用来补充或替代网络的DNS。和DNS不同的是，电脑用户可以直接控制主机文件。
 #### Hosts文件位置:
- >微软`Windows`系统位于`Windows`系统位于:`C:\Windows\system32\drivers\etc\hosts`.<br>
+ >微软`Windows`系统位于:`C:\Windows\system32\drivers\etc\hosts`.<br>
  >Apple `OS X`,`Unix`,`linux`通常位于:`/etc/hosts`.<br>
  >`Android`系统位于:`/system/etc/hosts`.<br>
  >`iOS`系统位于:`/etc/hosts`.<br>
