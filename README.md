@@ -16,7 +16,9 @@ Hosts file is a computer file stored in computer network information for each no
 
 ###Update details
 >update in 2016/03/06
->>Repair facebook can not enter, landing and other issues.
+>>Repair Facebook encountered Access restricted.
+>>Add some Google domain image.
+
 >First update in 2016/03/01.
 >>Disabled by default Games Hosts,You may need to open.
 >>
