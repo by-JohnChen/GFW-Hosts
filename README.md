@@ -15,6 +15,10 @@ Hosts file is a computer file stored in computer network information for each no
  * If you are `Android`,Please[Click here](./Android).
 
 ###Update details
+>update in 2016/03/01
+>>Change Google ip，add  Google “about me”。
+>>add Vimeo
+
 >update in 2016/03/06
 >>Repair Facebook encountered Access restricted.
 >>Add some Google domain image.
