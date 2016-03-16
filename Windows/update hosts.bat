@@ -18,7 +18,7 @@ goto download
 :download
 cls
 echo Set xPost = CreateObject("Microsoft.XMLHTTP") >a.vbe  
-echo xPost.Open "GET","https://github.com/by-JohnChen/GFW-Hosts/Windows",0 >>a.vbe  
+echo xPost.Open "GET","https://raw.githubusercontent.com/by-JohnChen/GFW-Hosts/master/Windows/hosts",0 >>a.vbe  
 echo xPost.Send() >>a.vbe  
 echo Set sGet = CreateObject("ADODB.Stream") >>a.vbe  
 echo sGet.Mode = 3 >>a.vbe  
